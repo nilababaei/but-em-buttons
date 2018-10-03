@@ -32,7 +32,7 @@ a {
   border-top: 0;
 }
 
-.btn {
+.btn-main {
   background-color: rgba(180, 255, 244, 0);
   border-width: 2px;
   border-style: solid;
@@ -42,7 +42,7 @@ a {
   padding-right: 0;
 }
 
-.btn:hover {
+.btn-main:hover {
   background-color: rgba(180, 255, 244, .2);
   border-color: #90ccc3;
 }
