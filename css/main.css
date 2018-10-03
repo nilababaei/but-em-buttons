@@ -1,0 +1,53 @@
+html {
+  font-family: "Ubuntu Condensed", sans-serif;
+}
+
+
+.img-star {
+  position: relative;
+}
+
+.text-box {
+  text-align: center;
+  color: #fff;
+  position: absolute;
+  top: 30%
+}
+
+.text-main {
+  filter: drop-shadow(1px 1px 6px rgba(255, 255, 255, .7));
+}
+
+a {
+  color: #b4fff4;
+  text-decoration: none;
+}
+
+.btn-ghost {
+  border-width: 2px;
+  border-style: solid;
+  border-color: #b4fff4;
+  border-left: 0;
+  border-right: 0;
+  border-top: 0;
+}
+
+.btn {
+  background-color: rgba(180, 255, 244, 0);
+  border-width: 2px;
+  border-style: solid;
+  border-color: #b4fff4;
+  border-radius: 15px;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.btn:hover {
+  background-color: rgba(180, 255, 244, .2);
+  border-color: #90ccc3;
+}
+
+.btn-ghost:hover {
+  background-color: rgba(180, 255, 244, 0);
+  border-color: #90ccc3;
+}
